@@ -3,5 +3,5 @@ class RunSerializer < ActiveModel::Serializer
 end
 
 def log_date
-  created_at.strftime('%B %-d, %Y')
+  created_at.strftime('%D')
 end
