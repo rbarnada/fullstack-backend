@@ -28,4 +28,4 @@ In the future, I plan to have the API serialize out the average pace of a logged
 ### Links:
 - ERD: https://i.imgur.com/lfmvK3n.jpg
 - Run Tracker Client: https://github.com/rbarnada/full-stack-project-client
-- Deployed API: https://sheltered-waters-67292.herokuapp.com/
+- Deployed API: https://run-tracker-api.herokuapp.com/
